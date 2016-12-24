@@ -1,4 +1,4 @@
 # HelloWorld
 My first GitHub project
 
-hello, I made some changes in the "readme-edits" branch
+deleted the readme-edits branch line added
